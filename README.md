@@ -2,6 +2,8 @@
 
 Olá, mais um projeto que saiu na ImersãoDev da Alura.
 
+Projeto realizado no CodePen: https://codepen.io/Lucas_MDuarte/full/LYxNxvG
+
 De todos os projetos da imersão, esse é o que mais gosto. Ele é bem simples, você copia o link de algum vídeo do Youtube e cola na caixa texto, clica no botão "Adicionar Vídeo" e ele aparece ali mesmo. Bem simples, né?
 
 Mas, quem trabalha com sites sabe que existe a opção incorporar do youtube, onde ele gera um código html, basta copiá-lo e inserir no seu código e vídeo do youtube estará na sua página. Mas, pensei em como um usuário, que não sabe desta opção, conseguiria listar os seus vídeos no projeto que criei. Percebi que o link do vídeo muda quando incorporamos.
