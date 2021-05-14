@@ -1,6 +1,6 @@
 # AluraTube
 
-Olá, mais um projeto qe saiu na ImersãoDev da Alura.
+Olá, mais um projeto que saiu na ImersãoDev da Alura.
 
 De todos os projetos da imersão, esse é o que mais gosto. Ele é bem simples, você copia o link de algum vídeo do Youtube e cola na caixa texto, clica no botão "Adicionar Vídeo" e ele aparece ali mesmo. Bem simples, né?
 
