@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=Z5td7jZgaYs&t=628s
 
 Depois do código do vídeo (v=Z5td7jZgaYs) é adicionado mais um parâmetro (t=628s), o tempo que você parou de assistir o vídeo. Assim, caso fosse copiado um link como no exemplo, a página não iria reconhecer vídeo. Precisei realizar uma condição verificando se o link possuia este argumento de tempo, se sim, ele seria retirado para validar o link.
 
-Gosto bastante deste projeto por conter esta lógica de verificar e validar o link. Assim, qualquer link que for colado na caixa de texto, a página irá reconheer e exibir o vídeo corretamente.
+Gosto bastante deste projeto por conter esta lógica de verificar e validar o link. Assim, qualquer link que for colado na caixa de texto, a página irá reconhecer e exibir o vídeo corretamente.
